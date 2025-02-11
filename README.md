@@ -7,4 +7,22 @@ By leveraging data analytics and implementing necessary actions based on insight
 
 ![image](https://evocon.com/wp-content/uploads/2024/09/How-to-create-Downtime-Report-2149x1250.jpg)
 
+## 
+
+
+
+
+
+
+
+## Data Preprocessing :
+- Data Loading :
+We load the dataset using Pandas and inspect its structure.
+- Missing Value Treatment :
+Identified missing values in several numerical columns.
+Replaced missing values with the mean and median for continuous variables
+After filling missing values, the dataset was checked again to ensure completeness. 
+- Outliers:
+Used boxplots  to detect outliers
+
 
